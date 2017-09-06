@@ -1,0 +1,19 @@
+{
+  "name": "rss",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "expressjs": "^1.0.1",
+    "node-feedparser": "^1.0.1",
+    "nodejs": "0.0.0",
+    "opmlparser": "^0.8.0",
+    "rss-feed-emitter": "^1.0.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

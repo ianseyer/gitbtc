@@ -1,0 +1,8 @@
+version: '3'
+services:
+  bot:
+    build: bot/
+    ports:
+      - "8080:80"
+  listener:
+    build: rss/
